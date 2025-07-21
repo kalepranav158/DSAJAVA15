@@ -5,7 +5,7 @@ public class ceelingnumber {
     public static void main(String[] args) {
         int [] arr ={11,32,56,98,128,132,150};
         int x=arr.length;
-        System.out.println(ceeling(arr,0,arr.length -1,151));
+        System.out.println(ceeling(arr,0,arr.length -1,31));
         System.out.println(floor(arr,0,arr.length -1,5));
 
     }

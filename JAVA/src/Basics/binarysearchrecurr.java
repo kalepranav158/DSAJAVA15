@@ -18,8 +18,6 @@ public class binarysearchrecurr {
               return search(arr, mid + 1, end, key);
           else if (arr[mid] > key)
               return search(arr, start, mid - 1, key);
-
-
       }
      return false;
       }
