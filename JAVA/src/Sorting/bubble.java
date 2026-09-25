@@ -21,9 +21,7 @@ public class bubble {
                        swap=true;
                     }
                 }
-                if (!swap) {
-                    break;
-                }
+                if (!swap) swap = true;
             }
             return arr;
         }

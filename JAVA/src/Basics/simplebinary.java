@@ -1,10 +1,7 @@
 package Basics;
 
 public class simplebinary {
-
-
-
-        public static void main(String[] args) {
+    public static void main(String[] args) {
             int[] sortedArray = {2, 5, 8, 12, 16, 23, 38, 56, 72, 91};
             int targetElement = 23;
             int result = binarySearch(sortedArray, targetElement);

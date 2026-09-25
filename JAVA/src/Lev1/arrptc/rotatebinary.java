@@ -34,11 +34,9 @@ public class rotatebinary {
         if (pivot == -1) {
             binarySearch(arr, target, 0, arr.length);
         }
-
         if (arr[pivot] == target) {
             return pivot;
         }
-
         if (target >= arr[0])
            return binarySearch(arr, 0, pivot - 1, target);
         else

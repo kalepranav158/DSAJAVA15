@@ -12,9 +12,9 @@ public class strbldr {
 //        System.out.println(b);
 
          String a = new String("Pranav");
-        String b = new String("Pranav    ");
-        System.out.println(a==b);
-        System.out.println(a.equals(b));
+        String b = new String("Pranav");
+        System.out.println(" == "+a==b);
+        System.out.println(".equals "+a.equals(b));
 
 float f = 3.216161f;
 

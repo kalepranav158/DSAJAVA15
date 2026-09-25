@@ -1,0 +1,24 @@
+3 hours of learning for 4 days  → much more efficient than 12 hours in 1 day. 
+
+3 medium‑level questions a day for a week → much more efficient than cramming 25 easy ones on Sunday.
+
+1 hour of pure code + 10 minutes of notes, every night → much more efficient than a 6‑hour marathon with zero reflection.
+
+Solving one problem till you can re‑code it from scratch → much more efficient than half‑understanding five and moving on.
+
+Reading the official solution + writing your own proof → much more efficient than copy‑pasting accepted code.
+
+Reviewing yesterday’s mistakes before today’s grind → much more efficient than jumping to fresh problems with the same blind spots.
+
+A focused mock interview every 2 weeks → much more efficient than binge‑solving random questions when panic hits.
+
+Pair‑programming with a peer for 90 minutes → much more efficient than scrolling through discussion forums for two hours.
+
+Tracking time‑to‑solve and memory usage → much more efficient than counting total submissions.
+
+Learning one new pattern (e.g., sliding window) deeply → much more efficient than touching ten patterns superficially.
+
+A 20‑minute walk to reset your brain → much more efficient than forcing out bug fixes after midnight.
+
+Consistency in your actions is everything. 
+Remember: Your DSA muscle grows in daily reps, not binge work or long, late-night work. 

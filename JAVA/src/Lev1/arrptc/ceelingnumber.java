@@ -7,8 +7,8 @@ public class ceelingnumber {
         int x=arr.length;
         System.out.println(ceeling(arr,0,arr.length -1,31));
         System.out.println(floor(arr,0,arr.length -1,5));
-
     }
+
 
     static int ceeling(int [] arr, int start ,int end,int key)
     {     if(key >arr[arr.length-1] )
